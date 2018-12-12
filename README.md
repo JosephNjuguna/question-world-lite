@@ -21,14 +21,15 @@ to get this product running on your local machine make sure that:
  ```
  [www.google.com\chrome]
  ```
- 2. Git clone the project using the clone button at the top right of this section
+ 2. Ensure Git is installed in your machine.
+ 3. Open your terminal or command prompt and git clone the project using the    following link
  ```
-https://github.com/JosephNjuguna/stackoverflow-lite.git
+ git clone https://github.com/JosephNjuguna/stackoverflow-lite.git
  ```
 
 #Run the web page:
 
- go to the directory folder where you cloned the project into.
- Open the folder and open the signup.html file and access the web ui.
++ go to the directory folder where you cloned the project into.
+ Open the folder and open the signup.html using your favorite browser.(Google Chrome recommended)
 
- this basically gives you the opportunity to see the user UI where authentication will take place
++ this basically gives you the opportunity to view the user UI where create  user authentication will take place.
